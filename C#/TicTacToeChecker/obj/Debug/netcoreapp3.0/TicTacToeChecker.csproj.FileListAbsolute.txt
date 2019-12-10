@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\obj\Debug\netcoreapp3.0\TicTacToeChecker.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\obj\Debug\netcoreapp3.0\TicTacToeChecker.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\obj\Debug\netcoreapp3.0\TicTacToeChecker.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.exe
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.deps.json
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.runtimeconfig.json
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.dll
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\bin\Debug\netcoreapp3.0\TicTacToeChecker.pdb
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\obj\Debug\netcoreapp3.0\TicTacToeChecker.dll
+C:\Users\Jonathan\Documents\Codewars\C#\TicTacToeChecker\obj\Debug\netcoreapp3.0\TicTacToeChecker.pdb

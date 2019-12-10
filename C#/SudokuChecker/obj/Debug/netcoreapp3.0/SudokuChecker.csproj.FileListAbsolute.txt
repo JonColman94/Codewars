@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.exe
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.deps.json
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.runtimeconfig.json
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.dll
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\bin\Debug\netcoreapp3.0\SudokuChecker.pdb
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\obj\Debug\netcoreapp3.0\SudokuChecker.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\obj\Debug\netcoreapp3.0\SudokuChecker.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\obj\Debug\netcoreapp3.0\SudokuChecker.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\obj\Debug\netcoreapp3.0\SudokuChecker.dll
+C:\Users\Jonathan\Documents\Codewars\C#\SudokuChecker\obj\Debug\netcoreapp3.0\SudokuChecker.pdb

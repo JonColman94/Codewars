@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\obj\Debug\netcoreapp3.0\SumStrings.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\obj\Debug\netcoreapp3.0\SumStrings.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\obj\Debug\netcoreapp3.0\SumStrings.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.exe
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.deps.json
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.runtimeconfig.json
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.dll
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\bin\Debug\netcoreapp3.0\SumStrings.pdb
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\obj\Debug\netcoreapp3.0\SumStrings.dll
+C:\Users\Jonathan\Documents\Codewars\C#\SumStrings\obj\Debug\netcoreapp3.0\SumStrings.pdb
